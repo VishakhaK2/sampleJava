@@ -29,7 +29,7 @@ public class test {
 		
 	}
 	
-	
+	System.out.println("folder structure");
 	System.out.println("After   "+hm);
 	
 	Iterator<String> itr=hm.keySet().iterator();
