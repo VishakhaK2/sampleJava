@@ -33,6 +33,7 @@ public class test {
 	System.out.println("After   "+hm);
 	System.out.println("test1 whether trigger after every commit works or not");
 		System.out.println("test2 whether trigger after every commit works or not");
+		System.out.println("test3 whether trigger after every commit works or not");
 	Iterator<String> itr=hm.keySet().iterator();
 	
 	while(itr.hasNext())
