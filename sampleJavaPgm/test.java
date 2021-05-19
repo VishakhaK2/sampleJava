@@ -31,7 +31,7 @@ public class test {
 	
 	System.out.println("folder structure");
 	System.out.println("After   "+hm);
-	
+	System.out.println("test whether trigger after every commit works or not");
 	Iterator<String> itr=hm.keySet().iterator();
 	
 	while(itr.hasNext())
